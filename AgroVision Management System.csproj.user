@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AgroVision Forms.cs\AddCropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\AddItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\DeleteCropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\DeleteExpenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\DeleteItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\GenerateExpenseRecordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\RecordExpenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\RecordSaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\UpdateCropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\UpdateItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgroVision Forms.cs\WeatherTrackerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
