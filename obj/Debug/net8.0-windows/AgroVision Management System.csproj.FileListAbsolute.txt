@@ -1,0 +1,50 @@
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.csproj.AssemblyReference.cache
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.AddCropForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.DashboardForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.DeleteCropForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.DeleteExpenseForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.GenerateExpenseRecordForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.LoginForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.RecordExpenseForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.UpdateCropForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.WeatherTrackerForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.Properties.Resources.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.csproj.GenerateResource.cache
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.AssemblyInfoInputs.cache
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.AssemblyInfo.cs
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.csproj.CoreCompileInputs.cache
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\AgroVision Management System.exe
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\AgroVision Management System.deps.json
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\AgroVision Management System.runtimeconfig.json
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\AgroVision Management System.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\AgroVision Management System.pdb
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVisi.26B8CDF8.Up2Date
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\refint\AgroVision Management System.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.pdb
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.genruntimeconfig.cache
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\ref\AgroVision Management System.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.SignUpForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision Management System.sourcelink.json
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.AddItemForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.DeleteItemForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.UpdateItemForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\obj\Debug\net8.0-windows\AgroVision_Management_System.AgroVision_Forms.cs.RecordSaleForm.resources
+C:\Users\Jafit Love R. Ybanez\Documents\AgroVision Management System\bin\Debug\net8.0-windows\AdvancedDataGridView.dll

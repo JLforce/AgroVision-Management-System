@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.Crop">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAABEAA=</HashCode>
+      <FileName>AgroVision Forms.cs\Crop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.DatabaseHelper">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\DatabaseHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.Expense">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAEAAAAAAAAAAAAAAAEAAAAABAAAQAAACAA=</HashCode>
+      <FileName>AgroVision Forms.cs\Expense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.AddCropForm">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kDAICEAQoCAAAkAAAACAAAACBAAABMAAICAFUBEAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\AddCropForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.DeleteCropForm">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAgAAEkCAAgAAAAACAAAADAAAAABAIAAAAAAAAAAQ=</HashCode>
+      <FileName>AgroVision Forms.cs\DeleteCropForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.UpdateCropForm">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCEEEAgAAKAAIFAGAAKAAAQiAEFAAgQAEACAAAAaKAA=</HashCode>
+      <FileName>AgroVision Forms.cs\UpdateCropForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.GenerateCropReportForm">
+    <Position X="15.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAgAAAEIACGAAACAABAAAAAAAAAAAACQAA=</HashCode>
+      <FileName>AgroVision Forms.cs\GenerateCropReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.RecordExpenseForm">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADABAQBAACAIAAAgAAKgAAACAAIAAAAAIBAAACAAAAQ=</HashCode>
+      <FileName>AgroVision Forms.cs\RecordExpenseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.DeleteExpenseForm">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAIACAAACAAAACAAAACAAAAAAEQAAADAgAAQAA=</HashCode>
+      <FileName>AgroVision Forms.cs\DeleteExpenseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.GenerateExpenseRecordForm">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAACAAAAAgQgCCAAACAAAAYAAEIIBgAAAAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\GenerateExpenseRecordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.WeatherTrackerForm">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACICACAAgCABABAQAICAQggCEAgAEAYIAgAAkEAAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\WeatherTrackerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.Program">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

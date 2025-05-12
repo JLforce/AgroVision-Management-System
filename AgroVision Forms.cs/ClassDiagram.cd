@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.LoginHandler">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\LoginHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.SignUpHandler">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\SignUpHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.PasswordHelper">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\PasswordHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.Crop">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAABEAA=</HashCode>
+      <FileName>AgroVision Forms.cs\Crop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.DatabaseHelper">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\DatabaseHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.AgroVision_Forms.cs.Expense">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAEAAAAAAAAAAAAAAAEAAAAABAAAQAAACAA=</HashCode>
+      <FileName>AgroVision Forms.cs\Expense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVisionManagementSystem.Inventory">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="AgroVisionManagementSystem.Inventory.Database" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AgroVision Forms.cs\Inventory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAQAABAAAIAAAAAAABAAgQAAAAQACgAAACAA=</HashCode>
+      <FileName>AgroVision Forms.cs\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.Sales">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAARBAAAAAAAAAAABAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>AgroVision Forms.cs\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgroVision_Management_System.Program">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
